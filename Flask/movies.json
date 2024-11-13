@@ -1,0 +1,13 @@
+[
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/300-Sparta.mp4",
+        "title": "300",
+        "genre": [
+            "Action"
+        ],
+        "protagonist": "Gerard Butler",
+        "director": "Zack Snyder",
+        "ID": "8d9bd002-b156-4235-9c49-dc767792c221",
+        "IDUsuario": "fddd121b-1001-4cf0-b29d-c98cab0a2f2f"
+    }
+]

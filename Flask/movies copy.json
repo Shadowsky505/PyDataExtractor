@@ -1,0 +1,1224 @@
+[
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/300-Sparta.mp4",
+        "title": "300",
+        "genre": [
+            "Action"
+        ],
+        "protagonist": "Gerard Butler",
+        "director": "Zack Snyder",
+        "ID": "8d9bd002-b156-4235-9c49-dc767792c221",
+        "IDUsuario": "fddd121b-1001-4cf0-b29d-c98cab0a2f2f"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Agente_Salt.mp4",
+        "title": "Salt",
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "protagonist": "Angelina Jolie",
+        "director": "Phillip Noyce",
+        "ID": "f598c864-8a65-4541-b794-526ac8153ddb",
+        "IDUsuario": "fc2510b4-d9d0-4451-a1cd-ec61310087b5"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Atomic.mp4",
+        "title": "Atomic Blonde",
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "protagonist": "Charlize Theron",
+        "director": "David Leitch",
+        "ID": "3259c8e0-d7d0-454a-87e9-383d83548a6e",
+        "IDUsuario": "4957917d-5555-46cb-aede-3914bb86cb44"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Casino_Royale.mp4",
+        "title": "Casino Royale",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Thriller"
+        ],
+        "protagonist": "Daniel Craig",
+        "director": "Martin Campbell",
+        "ID": "0ebee239-3b04-4d54-a0a2-b37752252fb5",
+        "IDUsuario": "f7a13e70-302c-498d-93a5-6975e1d43386"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Comand.mp4",
+        "title": "Commando",
+        "genre": [
+            "Action"
+        ],
+        "protagonist": "Arnold Schwarzenegger",
+        "director": "Mark L. Lester",
+        "ID": "3faf51a2-8070-4e0f-8ec0-ddd995d8a271",
+        "IDUsuario": "2da2f4a0-8b15-4092-836b-920cdbc7edcd"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Die_Hard.mp4",
+        "title": "Die Hard",
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "protagonist": "Bruce Willis",
+        "director": "John McTiernan",
+        "ID": "d55b628a-5b36-4f0a-afec-cae2e5a20e6b",
+        "IDUsuario": "69a9ad9f-add1-4a4e-931b-cc3f6757b416"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Die_Another_Day.mp4",
+        "title": "Die Another Day",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Thriller"
+        ],
+        "protagonist": "Pierce Brosnan",
+        "director": "Lee Tamahori",
+        "ID": "a5822916-268b-4fc2-9e5f-5eb7f4110296",
+        "IDUsuario": "b9f71570-997d-4bbd-8a65-5a9f69dfa920"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Dredd.mp4",
+        "title": "Dredd",
+        "genre": [
+            "Action",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "protagonist": "Karl Urban",
+        "director": "Pete Travis",
+        "ID": "71f67386-b953-41d3-ab9c-d35c1d9d5254",
+        "IDUsuario": "2d516cc5-89c3-436e-81b6-920832a0027f"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Edge_of_Tomorrowtrailr.mp4",
+        "title": "Edge of Tomorrow",
+        "genre": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "protagonist": "Tom Cruise",
+        "director": "Doug Liman",
+        "ID": "4433ea5c-976e-451e-8af3-b4f96a19a73e",
+        "IDUsuario": "3191e22f-9ca7-4de8-9f7c-55585bbe2558"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Escape_From_New_York.mp4",
+        "title": "Escape From New York",
+        "genre": [
+            "Action",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "protagonist": "Kurt Russell",
+        "director": "John Carpenter",
+        "ID": "a95597c3-c7d8-442f-a490-5888bbfc90d7",
+        "IDUsuario": "d7c7c08b-7196-4d14-ba8f-5ca714180b39"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Fast_and_furious.mp4",
+        "title": "Fast & Furious",
+        "genre": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "protagonist": "Vin Diesel",
+        "director": "Justin Lin",
+        "ID": "7a39d98a-7b11-4795-a476-3b71d9f73e8f",
+        "IDUsuario": "15344285-6195-4af9-abec-cc225c4de8ad"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Gladiator.mp4",
+        "title": "Gladiator",
+        "genre": [
+            "Action",
+            "Drama",
+            "Adventure"
+        ],
+        "protagonist": "Russell Crowe",
+        "director": "Ridley Scott",
+        "ID": "d56ea3e7-d65a-45cb-929f-23abe66d4004",
+        "IDUsuario": "db9d4e58-67c1-4313-934e-85e930ef1545"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Guardians_of_the_Galaxy.mp4",
+        "title": "Guardians of the Galaxy",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "protagonist": "Chris Pratt",
+        "director": "James Gunn",
+        "ID": "2c9cb879-321f-42ba-b1d4-20d916a59efa",
+        "IDUsuario": "978a8c32-1935-45d4-b882-9b6fe5fdd54f"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Inception.mp4",
+        "title": "Inception",
+        "genre": [
+            "Action",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "protagonist": "Leonardo DiCaprio",
+        "director": "Christopher Nolan",
+        "ID": "8048fce3-5ffc-439c-b4a1-4bec351f9480",
+        "IDUsuario": "abf9c8a1-51c6-45b0-84ba-23b65615473e"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/John_Wick.mp4",
+        "title": "John Wick",
+        "genre": [
+            "Action",
+            "Thriller",
+            "Crime"
+        ],
+        "protagonist": "Keanu Reeves",
+        "director": "Chad Stahelski",
+        "ID": "61ea59f4-b2b3-4c9b-8424-138921d2385e",
+        "IDUsuario": "1bbad3b6-7d08-448c-98f9-8b7a4e184dc7"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Kill_Bill.mp4",
+        "title": "Kill Bill",
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "protagonist": "Uma Thurman",
+        "director": "Quentin Tarantino",
+        "ID": "aa2768ae-6ab2-43d9-88e6-6d44458f9941",
+        "IDUsuario": "bf13af0d-1289-44b4-924e-ae77a4f01e06"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Kingsman.mp4",
+        "title": "Kingsman",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "protagonist": "Taron Egerton",
+        "director": "Matthew Vaughn",
+        "ID": "6f504929-4bad-4cc0-8b16-569a44dfb064",
+        "IDUsuario": "cf59b923-9393-4b2b-a18c-83fe60200c83"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Lethal_Weapon.mp4",
+        "title": "Lethal Weapon",
+        "genre": [
+            "Action",
+            "Comedy",
+            "Thriller"
+        ],
+        "protagonist": "Mel Gibson",
+        "director": "Richard Donner",
+        "ID": "64335985-f5ca-48c8-8da6-420d8508dcf6",
+        "IDUsuario": "b3335894-eda3-4cf6-be89-c0fc2ff47133"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Looper.mp4",
+        "title": "Looper",
+        "genre": [
+            "Action",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "protagonist": "Joseph Gordon-Levitt",
+        "director": "Rian Johnson",
+        "ID": "5be26284-4684-480a-bb31-404d4d44f581",
+        "IDUsuario": "f1ff22d2-1510-4f4f-b729-335c1039b0ef"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Mad_Max_Fury_Road.mp4",
+        "title": "Mad Max: Fury Road",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "protagonist": "Tom Hardy",
+        "director": "George Miller",
+        "ID": "0111652d-dae6-4228-b368-51f331a89902",
+        "IDUsuario": "503cad59-5020-421e-8ff1-326a24751efa"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Matrix.mp4",
+        "title": "The Matrix",
+        "genre": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "protagonist": "Keanu Reeves",
+        "director": "The Wachowskis",
+        "ID": "adce84c7-d568-4d98-84ec-574b382c2274",
+        "IDUsuario": "55779bfe-b3fb-41ad-87fd-fe3f27d90139"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Mission_Impossible.mp4",
+        "title": "Mission: Impossible",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Thriller"
+        ],
+        "protagonist": "Tom Cruise",
+        "director": "Brian De Palma",
+        "ID": "69814842-97f3-4477-b8c8-7c06f6cfdd67",
+        "IDUsuario": "711f0e97-5477-4856-9816-9488f9ee129c"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Pacific_Rim.mp4",
+        "title": "Pacific Rim",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "protagonist": "Charlie Hunnam",
+        "director": "Guillermo del Toro",
+        "ID": "6eb157b5-f05f-4da7-b38e-ad8949bfc866",
+        "IDUsuario": "56af7034-e39b-43e9-ad76-22a17e167dca"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Raiders_of_the_Lost_Ark.mp4",
+        "title": "Raiders of the Lost Ark",
+        "genre": [
+            "Action",
+            "Adventure"
+        ],
+        "protagonist": "Harrison Ford",
+        "director": "Steven Spielberg",
+        "ID": "1bb47d32-c535-4113-a8ab-c15cf2785583",
+        "IDUsuario": "42794d10-dd49-49ec-aeb4-94ab0da04566"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Robocop.mp4",
+        "title": "Robocop",
+        "genre": [
+            "Action",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "protagonist": "Peter Weller",
+        "director": "Paul Verhoeven",
+        "ID": "67b7ee0f-77de-4702-a75a-e225c051576e",
+        "IDUsuario": "3ed134dc-7e28-4b99-a804-603d8cbacafa"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Speed.mp4",
+        "title": "Speed",
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "protagonist": "Keanu Reeves",
+        "director": "Jan de Bont",
+        "ID": "af7830c7-d65c-499f-85cf-4c7f175081a4",
+        "IDUsuario": "016eaf6d-448d-46d5-bcc1-c7e1422af38b"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Swordfish.mp4",
+        "title": "Swordfish",
+        "genre": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "protagonist": "Hugh Jackman",
+        "director": "Dominic Sena",
+        "ID": "c15f83ec-0c96-4e08-ae40-c35ebbdab440",
+        "IDUsuario": "0258ba62-47a7-4ac1-9598-2e355a684ed9"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Taken2.mp4",
+        "title": "Taken 2",
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "protagonist": "Liam Neeson",
+        "director": "Olivier Megaton",
+        "ID": "9c74028d-3e54-489b-abd4-6596a900b7f9",
+        "IDUsuario": "3b60cb8e-68b2-4950-9162-aea8aa3bd279"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Terminator.mp4",
+        "title": "Terminator",
+        "genre": [
+            "Action",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "protagonist": "Arnold Schwarzenegger",
+        "director": "James Cameron",
+        "ID": "797f139a-2423-4920-b0c2-1350d7882830",
+        "IDUsuario": "819fa080-c3a3-4218-ad5c-0b1ec899ad78"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/The_Dark_Knight.mp4",
+        "title": "The Dark Knight",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "protagonist": "Christian Bale",
+        "director": "Christopher Nolan",
+        "ID": "5ff20905-a43c-46b5-9368-0f247835dadf",
+        "IDUsuario": "a67841cc-3e28-4bd2-9b27-d9db6805c4b5"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/The_Avengers.mp4",
+        "title": "The Avengers",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "protagonist": "Robert Downey Jr.",
+        "director": "Joss Whedon",
+        "ID": "b126fac7-6681-428e-a6b6-7125a69918df",
+        "IDUsuario": "ca8c67fb-5d7c-45b3-9e4f-9bf4ab106e3d"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/The_Bourne_Ultimatum.mp4",
+        "title": "The Bourne Ultimatum",
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "protagonist": "Matt Damon",
+        "director": "Paul Greengrass",
+        "ID": "cfca13e3-995d-4183-8bad-73d3493f86b2",
+        "IDUsuario": "acfe10a9-bd98-4c0e-b166-9b21c9499f7f"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/THE_EQUALIZER.mp4",
+        "title": "The Equalizer",
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "protagonist": "Denzel Washington",
+        "director": "Antoine Fuqua",
+        "ID": "d3b2a6e4-cb78-41bd-8b05-1b50961553b7",
+        "IDUsuario": "f0aeb0aa-b4c5-4cd5-b8db-0956ae75bbf3"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/The_Mercenries.mp4",
+        "title": "The Mercenaries",
+        "genre": [
+            "Action",
+            "Adventure"
+        ],
+        "protagonist": "Sylvester Stallone",
+        "director": "Simon West",
+        "ID": "27a1f9be-f8b5-44b4-8793-3d8a419e9c6a",
+        "IDUsuario": "976a4eab-35c1-4526-8a04-2fb3b03255d2"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/The_Transporter.mp4",
+        "title": "The Transporter",
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "protagonist": "Jason Statham",
+        "director": "Louis Leterrier",
+        "ID": "de76eca6-8e86-4bca-85ef-c949f2cbf760",
+        "IDUsuario": "b3c70a81-5b4c-4c32-8451-af6f6d675897"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/TRANSFORMERS_7.mp4",
+        "title": "Transformers: Age of Extinction",
+        "genre": [
+            "Action",
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "protagonist": "Mark Wahlberg",
+        "director": "Michael Bay",
+        "ID": "03f85873-17fa-48ea-9af7-d6d7db435ccd",
+        "IDUsuario": "3f129486-eba9-46ee-8486-cd5a68f25179"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Avatar.mp4",
+        "title": "Avatar",
+        "genre": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "protagonist": "Sam Worthington",
+        "director": "James Cameron",
+        "ID": "a766f62b-cf11-4617-81cd-a3999d742559",
+        "IDUsuario": "a87be172-b914-440c-98a8-f1aa2847e849"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Big_hero_6.mp4",
+        "title": "Big Hero 6",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "protagonist": "Ryan Potter",
+        "director": "Don Hall, Chris Williams",
+        "ID": "9d1b0e52-98a7-41cc-9985-8cdf7d0885d4",
+        "IDUsuario": "f1b83423-2e7b-418e-a955-54ff11f91da8"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Buscando_a_Nemo.mp4",
+        "title": "Finding Nemo",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "protagonist": "Albert Brooks",
+        "director": "Andrew Stanton",
+        "ID": "da4ed513-9fd6-4c4a-b31b-b1d936d325e2",
+        "IDUsuario": "4e2ace23-43ee-4374-9f46-d695a702d74a"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Como_entrenar_dragon3.mp4",
+        "title": "How to Train Your Dragon: The Hidden World",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "protagonist": "Jay Baruchel",
+        "director": "Dean DeBlois",
+        "ID": "f967e1ac-e3d0-4962-a7e8-61d1cdb9b248",
+        "IDUsuario": "8b94c5b9-60c6-4e03-b046-c5206ccae447"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Atrapado_en_el_tiempo.mp4",
+        "title": "Groundhog Day",
+        "genre": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "protagonist": "Bill Murray",
+        "director": "Harold Ramis",
+        "ID": "70cb21ae-7138-415c-b097-4a532c4591c1",
+        "IDUsuario": "f8698b89-cac4-4c0d-bc2a-eccffe251103"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/DOS_TONTOS.mp4",
+        "title": "Dumb and Dumber To",
+        "genre": [
+            "Comedy"
+        ],
+        "protagonist": "Jim Carrey",
+        "director": "Peter Farrelly",
+        "ID": "2e1d5450-5411-4c2f-b126-8772e950be48",
+        "IDUsuario": "ade8de92-9867-4508-8e8d-9f11338eaac7"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/LOS_OTROS_DOS.mp4",
+        "title": "The Other Guys",
+        "genre": [
+            "Comedy",
+            "Action"
+        ],
+        "protagonist": "Will Ferrell",
+        "director": "Adam McKay",
+        "ID": "2a627eb7-e9ad-4c36-add7-a69d74cc235b",
+        "IDUsuario": "b2bf2cfa-7dc9-450b-aa05-a5443a46769f"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Tropic_Thunder.mp4",
+        "title": "Tropic Thunder",
+        "genre": [
+            "Comedy",
+            "Action"
+        ],
+        "protagonist": "Ben Stiller",
+        "director": "Ben Stiller",
+        "ID": "185c5979-0438-415d-811f-4d82400c9108",
+        "IDUsuario": "e60d4892-8144-4858-b27c-ef37a5242151"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/BRIDESMAIDS.mp4",
+        "title": "Bridesmaids",
+        "genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "protagonist": "Kristen Wiig",
+        "director": "Paul Feig",
+        "ID": "cb5fbb02-30fe-41da-b25e-a9794462a367",
+        "IDUsuario": "1f861159-48b5-4916-88cc-61a82d18f76b"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/EL_GRAN_HOTEL.mp4",
+        "title": "The Grand Budapest Hotel",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "protagonist": "Ralph Fiennes",
+        "director": "Wes Anderson",
+        "ID": "34731641-85d2-415f-84c4-20efcb676ca5",
+        "IDUsuario": "15ee7d61-22bd-4149-ac07-ed1b8d9ec2da"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Man_of_Mystery.mp4",
+        "title": "Austin Powers: International Man of Mystery",
+        "genre": [
+            "Comedy",
+            "Action"
+        ],
+        "protagonist": "Mike Myers",
+        "director": "Jay Roach",
+        "ID": "b9acf917-c3ba-40a8-8866-8abbb684144f",
+        "IDUsuario": "c565d58f-41eb-44ad-824b-12a20d4c8228"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Shaun_of_the_Dead.mp4",
+        "title": "Shaun of the Dead",
+        "genre": [
+            "Comedy",
+            "Horror"
+        ],
+        "protagonist": "Simon Pegg",
+        "director": "Edgar Wright",
+        "ID": "459bfa9a-f82f-4ca2-97b5-dc4c31c5e3ae",
+        "IDUsuario": "39151ef9-1e28-4df9-a9ba-e39201783d15"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/UNA_RUBIA_MUY_LEGAL.mp4",
+        "title": "Legally Blonde",
+        "genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "protagonist": "Reese Witherspoon",
+        "director": "Robert Luketic",
+        "ID": "f16c1ea3-adcc-41e7-b76d-cc1896078d62",
+        "IDUsuario": "43990855-2fa1-4bbc-ac6d-72fe306ad0f8"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Cazafantasmas.mp4",
+        "title": "Ghostbusters",
+        "genre": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "protagonist": "Bill Murray",
+        "director": "Ivan Reitman",
+        "ID": "98c0a77f-057f-4631-bd6a-69148f754ba7",
+        "IDUsuario": "a8a9f74e-f809-474d-a6e6-78c46eb0f960"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/EL_PRINCIPE_DE_ZAMUNDA.mp4",
+        "title": "Coming to America",
+        "genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "protagonist": "Eddie Murphy",
+        "director": "John Landis",
+        "ID": "e594ae3a-7825-4d84-8f9a-048a3120a857",
+        "IDUsuario": "a952fdc1-e8b8-4169-9f7d-0dec76701259"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Mean_Girls_2.mp4",
+        "title": "Mean Girls 2",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "protagonist": "Meaghan Martin",
+        "director": "Melanie Mayron",
+        "ID": "ae9b0f0e-d3e3-4a14-a625-be2c36141e5f",
+        "IDUsuario": "ad20f5d6-e914-4749-b2d9-a4232bbec4c4"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Solo_Casa.mp4",
+        "title": "Home Alone",
+        "genre": [
+            "Comedy",
+            "Family"
+        ],
+        "protagonist": "Macaulay Culkin",
+        "director": "Chris Columbus",
+        "ID": "f4282fa5-eaca-4919-8463-22dd2e00be44",
+        "IDUsuario": "73092c64-cff1-4754-90f9-54f7f0473a4d"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Un_experto.mp4",
+        "title": "Ferris Bueller's Day Off",
+        "genre": [
+            "Comedy"
+        ],
+        "protagonist": "Matthew Broderick",
+        "director": "John Hughes",
+        "ID": "6902cc43-a1d7-414b-93f6-e4ab4dc8aadd",
+        "IDUsuario": "24663c22-9381-468c-8ba3-89db654be2b6"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Senora_Doubtfire.mp4",
+        "title": "Mrs. Doubtfire",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "protagonist": "Robin Williams",
+        "director": "Chris Columbus",
+        "ID": "05db56e4-58b5-4316-94a0-108a88440942",
+        "IDUsuario": "84f49859-1d2f-47ef-af21-15432aed0f70"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/12_Anos_de_Esclavitud.mp4",
+        "title": "12 Years a Slave",
+        "genre": [
+            "Drama",
+            "Biography",
+            "History"
+        ],
+        "protagonist": "Chiwetel Ejiofor",
+        "director": "Steve McQueen",
+        "ID": "1142c20b-7682-4d54-8800-215f327fd1f5",
+        "IDUsuario": "9a130870-c2da-48d2-a20c-4fcf3be6a8ff"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Bajo_la_misma_estrella.mp4",
+        "title": "The Fault in Our Stars",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "protagonist": "Shailene Woodley",
+        "director": "Josh Boone",
+        "ID": "9ebf290a-7e5c-4173-917d-10f8922cca6d",
+        "IDUsuario": "f29a3087-c084-49bc-be1a-fd60cdf18ef6"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/BOYHOOD.mp4",
+        "title": "Boyhood",
+        "genre": [
+            "Drama"
+        ],
+        "protagonist": "Ellar Coltrane",
+        "director": "Richard Linklater",
+        "ID": "cc126156-7cf1-432f-b54b-053b30bfff58",
+        "IDUsuario": "4f89d09b-cc03-45af-83e6-d13286b8aa33"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Brooklyn.mp4",
+        "title": "Brooklyn",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "protagonist": "Saoirse Ronan",
+        "director": "John Crowley",
+        "ID": "43124a6d-31d8-496d-8cb1-a9b241f5fb74",
+        "IDUsuario": "7ef44e50-369e-4435-b92b-bc6bd4a337a9"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Cadena_Perpetua.mp4",
+        "title": "The Shawshank Redemption",
+        "genre": [
+            "Drama"
+        ],
+        "protagonist": "Tim Robbins",
+        "director": "Frank Darabont",
+        "ID": "7fd1cde1-5411-4202-b5ba-e090984b51c7",
+        "IDUsuario": "34210660-c12b-48ad-8b74-509d223560a4"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Alien_Romulus.mp4",
+        "title": "Alien Romulus",
+        "genre": [
+            "Sci-Fi",
+            "Horror"
+        ],
+        "protagonist": "Sigourney Weaver",
+        "director": "Ridley Scott",
+        "ID": "321f77ea-e52e-4b4a-b7b1-d99814f0fd1e",
+        "IDUsuario": "c2be0c45-fc88-404b-9355-0fc32e71abf8"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Dune.mp4",
+        "title": "Dune",
+        "genre": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "protagonist": "Timoth\u00c3\u00a9e Chalamet",
+        "director": "Denis Villeneuve",
+        "ID": "0b0646e6-9c39-456d-a2ce-e9da4327aeac",
+        "IDUsuario": "cd539450-7455-4a57-a8b2-025b7a748cdd"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Gravity.mp4",
+        "title": "Gravity",
+        "genre": [
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "protagonist": "Sandra Bullock",
+        "director": "Alfonso Cuar\u00c3\u00b3n",
+        "ID": "baee4394-1c51-43f8-b860-b060ddc8c458",
+        "IDUsuario": "e4d13fbe-f9b4-4b03-b0b1-551632b37030"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Minority_Report.mp4",
+        "title": "Minority Report",
+        "genre": [
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "protagonist": "Tom Cruise",
+        "director": "Steven Spielberg",
+        "ID": "1dafd76c-512b-4a1b-8432-7a358e334047",
+        "IDUsuario": "6fa4af3b-7b2b-45b5-83d6-6e759213a702"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/The_Abyss.mp4",
+        "title": "The Abyss",
+        "genre": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "protagonist": "Ed Harris",
+        "director": "James Cameron",
+        "ID": "13c4ec50-5192-4449-a00e-306ef1874d8b",
+        "IDUsuario": "4bb8f1e7-a7f0-42bf-a4bb-87917b9d3217"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Aniquilacion.mp4",
+        "title": "Annihilation",
+        "genre": [
+            "Sci-Fi",
+            "Horror"
+        ],
+        "protagonist": "Natalie Portman",
+        "director": "Alex Garland",
+        "ID": "e3664b46-8513-417b-8c5e-b5dcf12f2b9f",
+        "IDUsuario": "2b16e2f0-37bf-4ced-90ec-443e2ec5bc58"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/EDGE_OF_TOMORROW_2.mp4",
+        "title": "Edge of Tomorrow",
+        "genre": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "protagonist": "Tom Cruise",
+        "director": "Doug Liman",
+        "ID": "4853796a-6bf0-4d85-aa89-c53f2ee9d7e2",
+        "IDUsuario": "40a424e8-fa2f-455a-9cce-3d8c8ec26d31"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Inception.mp4",
+        "title": "Inception",
+        "genre": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "protagonist": "Leonardo DiCaprio",
+        "director": "Christopher Nolan",
+        "ID": "4d874db1-2149-45ae-a978-c76209567399",
+        "IDUsuario": "0b864036-41a0-49c2-a839-d2d8a405f2cc"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Oblivion.mp4",
+        "title": "Oblivion",
+        "genre": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "protagonist": "Tom Cruise",
+        "director": "Joseph Kosinski",
+        "ID": "0ca59bf8-4860-4c8c-9b32-5687911b8e00",
+        "IDUsuario": "2aa2ffa9-e39c-409c-ae2f-7a7b89e8d8b7"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/THE_FIFTH_ELEMENT.mp4",
+        "title": "The Fifth Element",
+        "genre": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "protagonist": "Bruce Willis",
+        "director": "Luc Besson",
+        "ID": "0c080588-6789-47e8-9ff3-1ea51c42692b",
+        "IDUsuario": "fed60c6a-034a-4fef-8931-e5d4045ba130"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/ARRIVAL.mp4",
+        "title": "Arrival",
+        "genre": [
+            "Sci-Fi",
+            "Drama"
+        ],
+        "protagonist": "Amy Adams",
+        "director": "Denis Villeneuve",
+        "ID": "24aa3406-c921-464e-b5f5-49beeac26e98",
+        "IDUsuario": "76495ccd-a3b5-4d27-aacf-eaa1b6502a29"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Ella.mp4",
+        "title": "Her",
+        "genre": [
+            "Sci-Fi",
+            "Drama",
+            "Romance"
+        ],
+        "protagonist": "Joaquin Phoenix",
+        "director": "Spike Jonze",
+        "ID": "2ecdad0b-5589-418d-9076-9e7f751fa8d1",
+        "IDUsuario": "ab597e99-ef5c-476a-9b73-14ae1a4aec14"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Interstellar.mp4",
+        "title": "Interstellar",
+        "genre": [
+            "Sci-Fi",
+            "Adventure",
+            "Drama"
+        ],
+        "protagonist": "Matthew McConaughey",
+        "director": "Christopher Nolan",
+        "ID": "193b6787-2780-4e71-8714-ceb72549df69",
+        "IDUsuario": "ea659412-2a53-4cd1-8055-e88e32f7d1f9"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/PACIFIC_RIM.mp4",
+        "title": "Pacific Rim",
+        "genre": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "protagonist": "Charlie Hunnam",
+        "director": "Guillermo del Toro",
+        "ID": "4db05b35-6c42-4a2c-9d1a-e169874b6fcf",
+        "IDUsuario": "f017917e-858e-40b7-ad6b-38f2a3c59ae9"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/THE_STRAIN.mp4",
+        "title": "The Strain",
+        "genre": [
+            "Sci-Fi",
+            "Horror"
+        ],
+        "protagonist": "Corey Stoll",
+        "director": "Guillermo del Toro",
+        "ID": "0d55b7d4-04f8-43f1-bc12-520f72de0f33",
+        "IDUsuario": "3757ca0e-14bf-482a-8cd5-00655d6224f2"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/ArtificialIntelligence.mp4",
+        "title": "Artificial Intelligence",
+        "genre": [
+            "Sci-Fi",
+            "Drama"
+        ],
+        "protagonist": "Haley Joel Osment",
+        "director": "Steven Spielberg",
+        "ID": "b5406298-8373-41ff-a792-6b254c331676",
+        "IDUsuario": "e6c71a75-3176-4d70-abc7-f43fe9aed9f1"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/El_truc_final.mp4",
+        "title": "The Prestige",
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "protagonist": "Christian Bale",
+        "director": "Christopher Nolan",
+        "ID": "7262541f-5fdc-4c7b-b28d-938069e3d9cd",
+        "IDUsuario": "fa20bb6c-72a0-498d-907a-a9d11e4bd516"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/La_guerra_de_los_Mundos.mp4",
+        "title": "War of the Worlds",
+        "genre": [
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "protagonist": "Tom Cruise",
+        "director": "Steven Spielberg",
+        "ID": "7950835f-b1c6-4176-a173-d1f89618565a",
+        "IDUsuario": "42a9a301-7ddc-4465-8e40-124aae96ee8a"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Ready_Player_One.mp4",
+        "title": "Ready Player One",
+        "genre": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "protagonist": "Tye Sheridan",
+        "director": "Steven Spielberg",
+        "ID": "bed851f1-1bba-4079-9e5b-dfbd30fd5377",
+        "IDUsuario": "3a48ead0-1a92-4a96-b1d3-a35975dbd7ed"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/TOTAL_RECALL.mp4",
+        "title": "Total Recall",
+        "genre": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "protagonist": "Arnold Schwarzenegger",
+        "director": "Paul Verhoeven",
+        "ID": "7f7cb2c8-02cc-4028-b86d-634c583623b3",
+        "IDUsuario": "43f3bcf8-380d-41ed-ad86-a7ae4b87cc11"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Blade_runner.mp4",
+        "title": "Blade Runner",
+        "genre": [
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "protagonist": "Harrison Ford",
+        "director": "Ridley Scott",
+        "ID": "6ea0c634-1abf-496a-ab30-295e87828cd3",
+        "IDUsuario": "25fdf662-a377-4120-b4c7-807b906fbb5c"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/EX_MACHINA.mp4",
+        "title": "Ex Machina",
+        "genre": [
+            "Sci-Fi",
+            "Drama"
+        ],
+        "protagonist": "Domhnall Gleeson",
+        "director": "Alex Garland",
+        "ID": "2b750a6a-edd0-41bc-a679-341b2a12b0e3",
+        "IDUsuario": "bba904c3-416c-4707-add0-c06051125389"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/La_maquina.mp4",
+        "title": "The Time Machine",
+        "genre": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "protagonist": "Guy Pearce",
+        "director": "Simon Wells",
+        "ID": "e5ff8afb-26e6-4609-916d-0b03b0bb1c47",
+        "IDUsuario": "54d39985-afc4-4d2d-8657-fbf16c4a751c"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Snowpiercer.mp4",
+        "title": "Snowpiercer",
+        "genre": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "protagonist": "Chris Evans",
+        "director": "Bong Joon Ho",
+        "ID": "410582f3-24f9-4d60-bc82-3c1c2df57260",
+        "IDUsuario": "87f000a0-5ecf-4513-b0ef-d0a1f1f5089c"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Tron_Legacy.mp4",
+        "title": "Tron: Legacy",
+        "genre": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "protagonist": "Garrett Hedlund",
+        "director": "Joseph Kosinski",
+        "ID": "988048bb-29c3-44ba-9fd0-2a8990827c24",
+        "IDUsuario": "e2c10da1-354e-4cd1-852c-a757920ef2cb"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Children_of_Men.mp4",
+        "title": "Children of Men",
+        "genre": [
+            "Sci-Fi",
+            "Drama"
+        ],
+        "protagonist": "Clive Owen",
+        "director": "Alfonso Cuar\u00c3\u00b3n",
+        "ID": "629d8ccd-5470-4108-adfb-4d33ca00b125",
+        "IDUsuario": "44983ddd-c1cf-49da-90a5-08ab6a527f25"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Extra_Terrestrial.mp4",
+        "title": "E.T. the Extra-Terrestrial",
+        "genre": [
+            "Sci-Fi",
+            "Family"
+        ],
+        "protagonist": "Henry Thomas",
+        "director": "Steven Spielberg",
+        "ID": "80924a39-9987-4500-93fc-b9abd7c2740a",
+        "IDUsuario": "bfc4e444-e0a4-4087-a454-c26cf251bd70"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Looper_2.mp4",
+        "title": "Looper",
+        "genre": [
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "protagonist": "Joseph Gordon-Levitt",
+        "director": "Rian Johnson",
+        "ID": "579cd2e3-7a10-4945-82ec-590a9b92314c",
+        "IDUsuario": "023a5929-185a-4178-bc24-f57f8581b794"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Star_Wars.mp4",
+        "title": "Star Wars",
+        "genre": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "protagonist": "Mark Hamill",
+        "director": "George Lucas",
+        "ID": "7d9f2dfe-e37a-42ba-855d-b4941ce49a11",
+        "IDUsuario": "558a3afa-bc44-4c3e-ad86-eacce686b59c"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Una_odisea_del_espacio.mp4",
+        "title": "2001: A Space Odyssey",
+        "genre": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "protagonist": "Keir Dullea",
+        "director": "Stanley Kubrick",
+        "ID": "15a1d6bf-03ce-4380-ac1b-a0f71492a9a8",
+        "IDUsuario": "b82b367d-a8ee-4cd6-aefd-f3e9d2a88df7"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/DARK_CITY.mp4",
+        "title": "Dark City",
+        "genre": [
+            "Sci-Fi",
+            "Mystery"
+        ],
+        "protagonist": "Rufus Sewell",
+        "director": "Alex Proyas",
+        "ID": "60a7e859-8871-4e90-b688-813bca7452ad",
+        "IDUsuario": "df4be3b7-802c-4a0e-a66d-12d7ed9fc816"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/GATTACA.mp4",
+        "title": "Gattaca",
+        "genre": [
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "protagonist": "Ethan Hawke",
+        "director": "Andrew Niccol",
+        "ID": "ec4ece71-365d-4c46-8dcf-9c5d402dac4d",
+        "IDUsuario": "b12445be-430a-43de-8739-6a3400acc5b0"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Marte.mp4",
+        "title": "The Martian",
+        "genre": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "protagonist": "Matt Damon",
+        "director": "Ridley Scott",
+        "ID": "210ff79f-4a1d-49a2-ad77-f0837709c555",
+        "IDUsuario": "b07ce7e1-7df7-4bf7-9ff2-1a63fe4bb5c0"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Terminator_3.mp4",
+        "title": "Terminator 3: Rise of the Machines",
+        "genre": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "protagonist": "Arnold Schwarzenegger",
+        "director": "Jonathan Mostow",
+        "ID": "60b2dd3a-e269-4957-ab0d-89cb5d260308",
+        "IDUsuario": "5e6a63c0-630f-4b71-b017-78966dd9d72a"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/VOLVER_AL_FUTURO.mp4",
+        "title": "Back to the Future",
+        "genre": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "protagonist": "Michael J. Fox",
+        "director": "Robert Zemeckis",
+        "ID": "e8c132b4-92b8-4b61-b4ca-f2c061981c29",
+        "IDUsuario": "92c403bf-a60b-4a84-8fd6-78bdfd42bdeb"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Distrito_9_Legendado.mp4",
+        "title": "District 9",
+        "genre": [
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "protagonist": "Sharlto Copley",
+        "director": "Neill Blomkamp",
+        "ID": "7c421674-242b-408c-9355-a8f17ae4b974",
+        "IDUsuario": "61fe7f88-6418-45d6-bcd4-71e61a314b65"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Ghost_in_the_Shell.mp4",
+        "title": "Ghost in the Shell",
+        "genre": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "protagonist": "Scarlett Johansson",
+        "director": "Rupert Sanders",
+        "ID": "dc2cc8df-8b01-4936-8288-13ebcd6ac052",
+        "IDUsuario": "76442f2e-ed8f-43d1-b63c-37060ece1a94"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Matrix.mp4",
+        "title": "The Matrix",
+        "genre": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "protagonist": "Keanu Reeves",
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "ID": "b2c05aa3-88d9-44f2-8380-83862756450f",
+        "IDUsuario": "d57436bc-b85b-4649-9cad-9b3b601bef80"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/The_Abyss_2.mp4",
+        "title": "The Abyss 2",
+        "genre": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "protagonist": "Ed Harris",
+        "director": "James Cameron",
+        "ID": "7e0c4486-948f-4b3f-8a89-e23580dd67b0",
+        "IDUsuario": "f9e9d7b4-7a19-4d66-bd5b-b07ca0c219f9"
+    },
+    {
+        "url": "https://swsjrkitthcnpugjevou.supabase.co/storage/v1/object/public/movies/Yo_robot.mp4",
+        "title": "I, Robot",
+        "genre": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "protagonist": "Will Smith",
+        "director": "Alex Proyas",
+        "ID": "34123d8b-780e-40fa-9db6-d60019544d1e",
+        "IDUsuario": "b9709ba8-fbeb-4c69-92a8-9718f29abc6b"
+    }
+]
