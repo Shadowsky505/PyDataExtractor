@@ -43,6 +43,20 @@ def procesar_videos_para_tokenizacion(video_name, descripcion_path, transcripcio
         f.write(", ".join(palabras_clave))
     
     print(f"Palabras clave guardadas en {output_file_path}")
+
+    # Eliminar los archivos temporales de descripciones y transcripción
+    try:
+        os.remove(descripcion_path)
+        print(f"Archivo {descripcion_path} eliminado.")
+    except Exception as e:
+        print(f"Error al eliminar {descripcion_path}: {e}")
+    
+    try:
+        os.remove(transcripcion_path)
+        print(f"Archivo {transcripcion_path} eliminado.")
+    except Exception as e:
+        print(f"Error al eliminar {transcripcion_path}: {e}")
+
     return output_file_path
 
 # Ejemplo de uso:

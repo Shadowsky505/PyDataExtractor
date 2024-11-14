@@ -1,5 +1,6 @@
 from flask import Flask, request, jsonify
 import os
+import requests
 from concurrent.futures import ThreadPoolExecutor
 from Step1_Framing import split_video_into_scenes
 from Step2_Describing import procesar_imagenes_y_guardar_descripciones
@@ -17,6 +18,8 @@ TEXT_DIR = os.path.join(VIDEOS_DIR, "TextFromVideo")
 os.makedirs(VIDEOS_DIR, exist_ok=True)
 os.makedirs(FRAMES_BASE_DIR, exist_ok=True)
 os.makedirs(TEXT_DIR, exist_ok=True)
+
+API_URL = "http://localhost:5001/upload"  # URL de la API de destino
 
 def process_video_pipeline(video_path, video_name):
     try:
@@ -43,12 +46,25 @@ def process_video_pipeline(video_path, video_name):
 
     try:
         keywords_output_path = "videos/video.mp4_palabras_clave.txt"
-        generar_json_palabras_clave(keywords_output_path, "keyWords.txt")
+        json_path = "keyWords.txt"
+        generar_json_palabras_clave(keywords_output_path, json_path)
     except Exception as e:
         return {"status": "error", "message": f"Error in JSON generation: {str(e)}"}
 
+    # Enviar el archivo JSON y el video a otra API
+    try:
+        with open(json_path, 'rb') as json_file, open(video_path, 'rb') as video_file:
+            files = {
+                'json': ('keyWords.json', json_file, 'application/json'),
+                'video': (video_name, video_file, 'video/mp4')
+            }
+            response = requests.post(API_URL, files=files)
+            response.raise_for_status()
+    except Exception as e:
+        return {"status": "error", "message": f"Error sending data to external API: {str(e)}"}
+
     os.remove(video_path)
-    return {"status": "success", "message": "Video processed successfully"}
+    return {"status": "success", "message": "Video processed and sent successfully"}
 
 @app.route('/upload', methods=['POST'])
 def upload_and_process_video():
