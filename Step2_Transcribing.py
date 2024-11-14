@@ -70,23 +70,20 @@ def process_video(video_path, model_path, output_dir):
     print(f"Transcripción guardada en {transcription_file_path}")
     
     # Generar una descripción del video
-    description = generate_video_description(video_path)
-    
-    # Guardar la descripción
-    description_file_path = os.path.join(output_dir, "descripcion.txt")
-    with open(description_file_path, 'w', encoding='utf-8') as f:
-        f.write(description)
-    print(f"Descripción guardada en {description_file_path}")
 
     # Limpiar los archivos temporales
     os.remove(audio_path)
     print(f"Archivo de audio temporal eliminado.")
 
 # Ejecutar el proceso para el video especificado
-if __name__ == "__main__":
-    video_path = "Videos/video.mp4"  # Ruta de tu video en la carpeta Videos
-    model_path = "D:/TESIS/FlujoCompleto/vosk"  # Ruta de tu modelo de Vosk
-    output_dir = "Videos/TextFromVideo"  # Ruta donde se guardarán la transcripción y la descripción
-    os.makedirs(output_dir, exist_ok=True)
-    
-    process_video(video_path, model_path, output_dir)
+###
+# 
+# 
+# if __name__ == "__main__":
+#    video_path = "videos/video.mp4"  # Ruta de tu video en la carpeta Videos
+#    model_path = "vosk"  # Ruta de tu modelo de Vosk
+#    output_dir = "Videos/TextFromVideo/"  # Ruta donde se guardarán la transcripción y la descripción
+#    os.makedirs(output_dir, exist_ok=True)
+#    
+#    process_video(video_path, model_path, output_dir)
+###
