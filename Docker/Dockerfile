@@ -14,9 +14,9 @@ WORKDIR /app
 
 COPY Requirements.txt /app/requirements.txt
 # Descargar el modelo de Vosk en la carpeta app como "Vosk.zip"
-# RUN wget -O Vosk.zip https://alphacephei.com/vosk/models/vosk-model-fr-0.6-linto-2.2.0.zip \
-#    && unzip Vosk.zip -d ./vosk \
-#    && rm Vosk.zip
+ RUN wget -O Vosk.zip https://alphacephei.com/vosk/models/vosk-model-fr-0.6-linto-2.2.0.zip \
+    && unzip Vosk.zip -d ./vosk \
+    && rm Vosk.zip
 
 # Instalar dependencias de Python
 RUN pip install --no-cache-dir --upgrade pip \
