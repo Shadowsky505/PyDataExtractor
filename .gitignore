@@ -2,3 +2,4 @@ venv/
 vosk/
 Flask/
 apiClient.py
+received_files/

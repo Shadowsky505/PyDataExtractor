@@ -7,6 +7,7 @@ from Step2_Describing import procesar_imagenes_y_guardar_descripciones
 from Step2_Transcribing import process_video
 from Step3_Tokenizer import procesar_videos_para_tokenizacion
 from Step4_Cleaning import generar_json_palabras_clave
+from Step5_QueryAI import process_keywords
 
 app = Flask(__name__)
 executor = ThreadPoolExecutor(max_workers=5)
@@ -19,7 +20,7 @@ os.makedirs(VIDEOS_DIR, exist_ok=True)
 os.makedirs(FRAMES_BASE_DIR, exist_ok=True)
 os.makedirs(TEXT_DIR, exist_ok=True)
 
-API_URL = "http://localhost:5001/upload"  # URL de la API de destino
+API_URL = "http://localhost:8000/upload"  # URL de la API de destino
 
 def process_video_pipeline(video_path, video_name):
     try:
@@ -51,11 +52,18 @@ def process_video_pipeline(video_path, video_name):
     except Exception as e:
         return {"status": "error", "message": f"Error in JSON generation: {str(e)}"}
 
+    try:
+        inputfile = "keyWords.txt"
+        outfile = "movie_data.json"
+        process_keywords(inputfile,outfile)
+    except Exception as e:
+        return {"status": "error", "message": f"Error in keyword processing: {str(e)}"}
+
     # Enviar el archivo JSON y el video a otra API
     try:
-        with open(json_path, 'rb') as json_file, open(video_path, 'rb') as video_file:
+        with open(outfile, 'rb') as json_file, open(video_path, 'rb') as video_file:
             files = {
-                'json': ('keyWords.json', json_file, 'application/json'),
+                'json': ('response.json', json_file, 'application/json'),
                 'video': (video_name, video_file, 'video/mp4')
             }
             response = requests.post(API_URL, files=files)
