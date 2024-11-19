@@ -3,7 +3,7 @@ import json
 import os
 
 # Configurar la API de OpenAI
-API_KEY = "INGRESAR API KEY"
+API_KEY = "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"
 openai.api_key = API_KEY
 
 def read_keywords(file_path):
