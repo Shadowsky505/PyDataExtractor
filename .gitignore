@@ -3,3 +3,4 @@ vosk/
 Flask/
 apiClient.py
 received_files/
+__pycache__/
