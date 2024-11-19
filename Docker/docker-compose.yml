@@ -1,0 +1,14 @@
+
+services:
+  app:
+    build:
+      context: .  # Directorio que contiene el Dockerfile
+      dockerfile: Dockerfile
+    image: pydataextractor:latest
+    container_name: pydataextractor_app
+    volumes:
+      - .:/app  # Monta el proyecto local para ver cambios (opcional)
+    ports:
+      - "5000:5000"  # Puerto de la aplicación
+    environment:
+      - ENV=production  # Variables de entorno (opcional)
